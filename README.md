@@ -1,0 +1,2 @@
+# DungeonFogMapTimer
+Time your mapmaking!
